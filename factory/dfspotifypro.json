@@ -1,0 +1,15 @@
+{
+	"name": "dfspotifypro",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "04d7723d-710c-460b-b426-daf9c5ed6b92",
+		"tenantId": "ee033016-648a-46d6-a8bb-39648166b763"
+	}
+}
